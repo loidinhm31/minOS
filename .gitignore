@@ -1,0 +1,7 @@
+.idea
+/target
+*.o
+*.elf
+*.iso
+.vagrant
+log.txt
