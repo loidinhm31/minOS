@@ -6,3 +6,4 @@
 .vagrant
 log.txt
 ./iso/boot/*.elf
+bochslog.txt
