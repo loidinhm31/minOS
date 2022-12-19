@@ -3,3 +3,4 @@ timeout=0
 
 title MinOS
 kernel /boot/kernel.elf
+module /modules/program
